@@ -5,7 +5,7 @@ get stored wifi password in your computer
 it finds all stored passwords in your pc and shows them
 
 ## Downloads
-<h3>Latest Release</h3>
+<h3>Latest Release V1.0.1</h3>
 <a href="https://github.com/Sadman-Sakib2234/lol/releases/download/V1.0.1/wifi.exe">Wifi.exe</a>
 <br/>
 <br/>
